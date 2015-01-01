@@ -201,7 +201,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bf000000', e
 }
 
 .scroll-icon {
-    margin: 0 0 20px 0;
+    margin: 20px 0 20px 0;
 }
 
 .scroll-icon a:hover {
